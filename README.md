@@ -6,13 +6,7 @@ This project focuses on predicting the winners of NBA games using data analysis 
 
 - [Project Overview](#project-overview)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Data Collection](#data-collection)
-- [Data Preprocessing](#data-preprocessing)
-- [Model Training and Evaluation](#model-training-and-evaluation)
-- [Contributing](#contributing)
-- [License](#license)
-
+  
 ## Project Overview
 
 The objective of this project is to develop a predictive model that can accurately forecast the winners of NBA games. By utilizing historical game data, team statistics, and player performance information, the model aims to identify patterns and trends that contribute to game outcomes. The project leverages Python, BeautifulSoup, Pandas, Seaborn, and Scikit-learn to perform web scraping, data preprocessing, visualization, and machine learning tasks.
